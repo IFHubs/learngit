@@ -1,4 +1,5 @@
 #!/usr/bin/env
+# version 2
 import wx
 import matplotlib.pyplot as plt
 def load(event):
